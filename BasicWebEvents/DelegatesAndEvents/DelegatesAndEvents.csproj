@@ -44,6 +44,10 @@
   <ItemGroup>
     <Compile Include="Customer.cs" />
     <Compile Include="CustomerRepsitory.cs" />
+    <Compile Include="JobChangedEventArgs.cs" />
+    <Compile Include="Mediator.cs" />
+    <Compile Include="Model\Employee.cs" />
+    <Compile Include="Model\Job.cs" />
     <Compile Include="ProcessData.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
