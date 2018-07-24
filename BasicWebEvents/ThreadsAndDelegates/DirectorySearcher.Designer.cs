@@ -1,6 +1,6 @@
 ﻿namespace ThreadsAndDelegates
 {
-    partial class Component1
+    partial class DirectorySearcher
     {
         /// <summary>
         /// Required designer variable.
